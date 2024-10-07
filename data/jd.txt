@@ -1,0 +1,17 @@
+Python工程师 (AI应用方向) 11-20K·14薪
+北京 1-3年 本科
+
+职位描述
+Python PyTorch TensorFlow Numpy Redis MySQL openai langchain
+【工作职责】
+- 参与开发基于语音和数据的企业AI助理产品
+- 开发及维护基于大模型的中间层服务，处理语音、文本、文档、链接以及中台数据等形成知识库。
+【要求】
+- 计算机科学或相关领域的学士以上学位，或有相关工作经验；
+- 1-5年Python开发经验
+- 熟悉AI开发工具集，如OpenAI、LangChain、向量数据库、Text-SQL等
+- 熟练至少一种Python Web框架如FastAPI和ORM框架
+- 熟练编写Prompt提示词，利用AI的能力快速构建应用
+- 有良好的沟通和团队合作能力
+- 有较强的自我驱动力和问题解决能力
+- 有强烈的好奇心，热爱学习新鲜事物
